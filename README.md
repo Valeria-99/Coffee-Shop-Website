@@ -1,5 +1,6 @@
 # Coffee-Shop-Website
 Адаптивний веб-сайт кав'ярні
+![Coffee-Shop-Website](https://github.com/Valeria-99/Coffee-Shop-Website/assets/86023695/e72c03b9-12a0-4045-9a00-d972fc187b21)
 
 -Красива цілева сторінка для кави з використанням HTML, CSS, Js [подивіться самі](https://valeria-99.github.io/Coffee-Shop-Website/).  
 -Темний інтерфейс. 
